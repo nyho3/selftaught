@@ -3,6 +3,9 @@
 
 To Be Learned:-
 - Interface
+- Factory
+- Const (when to use?)
+- Exception Handling
 
 
 In Progress:-
