@@ -1,6 +1,5 @@
 # selftaught
 # This readme is to keep track on things to be learned and its progress.
-#
 
 To Be Learned:-
 - Interface
